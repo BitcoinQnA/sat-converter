@@ -40,7 +40,7 @@ a:link, a:visited, a:hover, a:active {
   background: #00151a;
   border: none;
   border-top: #111 1px solid;
-  color: #fff;
+  color: #f99925;
   font-size: 150%;
   text-align: center !important;
   transition: all .1s ease-in-out;
@@ -64,7 +64,7 @@ input[type=number] {
 
 .value-label {
   padding: 0.1rem;
-  color: #555;
+  color: #fff;
   margin-bottom: 0.5rem;
 }
 
