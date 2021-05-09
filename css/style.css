@@ -39,7 +39,7 @@ a:link, a:visited, a:hover, a:active {
   padding-top: 1em;
   background: #00151a;
   border: none;
-  border-top: #111 1px solid;
+  border-top: #111 0px solid;
   color: #f99925;
   font-size: 150%;
   text-align: center !important;
@@ -111,7 +111,7 @@ input[type=number] {
 .satsfiat {
   color: #f99925;
   font-size: 130%;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 
