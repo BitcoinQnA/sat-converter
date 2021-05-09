@@ -96,7 +96,7 @@ input[type=number] {
   padding-top: 5em;
   background: #00151a;
   border: none;
-  border-top: #111 1px solid;
+  border-top: #111 0px solid;
   line-height: 1.2rem;
   color: #fff;
   font-size: 10px;
